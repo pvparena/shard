@@ -1,0 +1,17 @@
+Account
+{
+	Name	admin
+	Password	admin
+	PasswordHash	f6fdffe48c908deb0f4c3bd36c032e72
+	Enabled	1
+	Banned	0
+	DefaultCmdLevel	test
+	UOExpansion	HSA
+	CProp	email s
+	CProp	job_options a2:i0i0
+	CProp	lastlogon i106063
+	CProp	notes s
+	CProp	releaseday s
+	CProp	sell_options a9:i0i0i0i0i0i0i0i0i0
+}
+

@@ -1,0 +1,15 @@
+#
+#  Created by Version: POL099-2011-05-02 Break Everything Even Rudder
+#  Mobiles:		 8125
+#  Top-level Items: 30
+#
+
+System
+{
+	CoreVersion	99
+	CoreVersionString	POL099-2011-05-02 Break Everything Even Rudder
+	CompileDate	Dec 13 2011
+	CompileTime	01:39:13
+}
+
+
